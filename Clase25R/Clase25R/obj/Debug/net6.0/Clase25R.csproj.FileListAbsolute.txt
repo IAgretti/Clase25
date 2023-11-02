@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase25R\Clase25R\bin\Debug\net6.0\Clase25R.exe
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase25R\Clase25R\bin\Debug\net6.0\Clase25R.deps.json
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase25R\Clase25R\bin\Debug\net6.0\Clase25R.runtimeconfig.json
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase25R\Clase25R\bin\Debug\net6.0\Clase25R.dll
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase25R\Clase25R\bin\Debug\net6.0\Clase25R.pdb
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase25R\Clase25R\obj\Debug\net6.0\Clase25R.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase25R\Clase25R\obj\Debug\net6.0\Clase25R.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase25R\Clase25R\obj\Debug\net6.0\Clase25R.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase25R\Clase25R\obj\Debug\net6.0\Clase25R.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase25R\Clase25R\obj\Debug\net6.0\Clase25R.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase25R\Clase25R\obj\Debug\net6.0\Clase25R.dll
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase25R\Clase25R\obj\Debug\net6.0\refint\Clase25R.dll
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase25R\Clase25R\obj\Debug\net6.0\Clase25R.pdb
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase25R\Clase25R\obj\Debug\net6.0\Clase25R.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase25R\Clase25R\obj\Debug\net6.0\ref\Clase25R.dll
